@@ -1,0 +1,28 @@
+name: WonderWorld
+favicon: null
+layout_spectrum: 0.1355251653585583
+typography_spectrum: 0.38825635402463377
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.43188567738980055
+  lightness: 0.9385750973597169
+  saturation: 0.5755818125326186
+  rhythmicContrast: 0.7762403192464262
+purpose: []
